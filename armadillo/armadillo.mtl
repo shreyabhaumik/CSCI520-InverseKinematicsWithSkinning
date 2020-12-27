@@ -1,0 +1,7 @@
+newmtl armadillo_initialShadingGroup
+illum 4
+Kd 0.70 0.70 1.00
+Ka 0.10 0.00 0.10
+Ks 0.20 0.20  0.20
+Tf 1.00 1.00 1.00
+Ni 3.00
