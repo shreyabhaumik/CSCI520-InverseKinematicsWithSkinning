@@ -69,13 +69,13 @@ The objective of this assignment is to perform skinning, forward kinematics (FK)
 ```  
 1. Tikhonov IK method  
 2. Pseudoinverse method(extra credits)  
-3. Transpose method(extra credits).
+3. Transpose method(extra credits)  
 ```  
 
 ### **Skinning Methods Implemented:**  
 ```  
 1. Linear Blend Skinning  
-2. Dual Quaternion Skinning(extra credits).  
+2. Dual Quaternion Skinning(extra credits)  
 ```  
 
 
