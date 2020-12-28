@@ -62,7 +62,20 @@ Note: To delete all the object files and executables:```make clean```
 
 
 ### **OBJECTIVE:**  
-The objective of this assignment is to perform skinning, forward kinematics (FK) and inverse kinematics (IK) to deform a character represented as an obj mesh. The IK algorithms to be implemented is Tikhonov IK method. The skinning methods to be used is Linear Blend Skinning.
+The objective of this assignment is to perform skinning, forward kinematics (FK) and inverse kinematics (IK) to deform a character represented as an obj mesh. The IK algorithm to be implemented is Tikhonov IK method. The skinning method to be used is Linear Blend Skinning.
+
+
+```
+### **IK Algorithms Implemented:**  
+1. Tikhonov IK method  
+2. Pseudoinverse method(extra credits)  
+3. Transpose method(extra credits).  
+
+### **Skinning Methods Implemented:**  
+1. Linear Blend Skinning  
+2. Dual Quaternion Skinning(extra credits).  
+```  
+
 
 ### **ACCOMPLISHMENTS - CORE CREDITS:**
 1. Implemented Forward Kinematics (FK.cpp). 
@@ -99,8 +112,5 @@ to be computed using ADOL-C (IK.cpp).
 ### **NECESSARY FILES AND FOLDERS LOCATIONS:**  
 - The images used for the skybox are stored in the folder “Skybox” in the root.  
 
-### **EXHIBIT:**
-![Mocap Interpolation](images/main.jpg)  
-![Bezier Euler vs Input](images/BEvsIPframe01785.jpg)  
-![Bezier Quaternion vs Input](images/BQvsIPframe02656.jpg)   
-[![https://www.youtube.com/watch?v=wpSoSCDwo5c](https://www.youtube.com/watch?v=wpSoSCDwo5c)](https://www.youtube.com/watch?v=wpSoSCDwo5c)
+### **EXHIBIT:** 
+[![https://www.youtube.com/watch?v=dqLlyH3Um3Y](https://www.youtube.com/watch?v=dqLlyH3Um3Y)](https://www.youtube.com/watch?v=dqLlyH3Um3Y)
