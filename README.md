@@ -65,13 +65,15 @@ Note: To delete all the object files and executables:```make clean```
 The objective of this assignment is to perform skinning, forward kinematics (FK) and inverse kinematics (IK) to deform a character represented as an obj mesh. The IK algorithm to be implemented is Tikhonov IK method. The skinning method to be used is Linear Blend Skinning.
 
 
-```
 ### **IK Algorithms Implemented:**  
+```  
 1. Tikhonov IK method  
 2. Pseudoinverse method(extra credits)  
-3. Transpose method(extra credits).  
+3. Transpose method(extra credits).
+```  
 
 ### **Skinning Methods Implemented:**  
+```  
 1. Linear Blend Skinning  
 2. Dual Quaternion Skinning(extra credits).  
 ```  
